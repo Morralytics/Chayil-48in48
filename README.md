@@ -12,7 +12,8 @@ My role was to assist in the construction of the UI while under the supervision 
 From this experience I learned on a professional level how to be assigned a role and complete it within a certain amount of time, communicate with a client on what they are specifically looking for, and branch out my own skill set on an alternative platform.
 
 
-Due to 48in48 finishing up the setup of the website, I am only able to show some of our final product.
+The public URL to visit and view Chayil Charitable Services can be found here:
+https://chayilcharitableservices.com/
 
 ## Final Thoughts
 
